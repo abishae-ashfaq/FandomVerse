@@ -1,0 +1,81 @@
+{
+  "galleries": [
+    {
+      "id": "gal-001",
+      "category": "anime",
+      "title": "Anime Scenes Collection",
+      "images": [
+        "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&q=80",
+        "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=800&q=80",
+        "https://images.unsplash.com/photo-1541562232579-512a21360020?w=800&q=80",
+        "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?w=800&q=80"
+      ]
+    },
+    {
+      "id": "gal-002",
+      "category": "gaming",
+      "title": "Gaming Setup Gallery",
+      "images": [
+        "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
+        "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=800&q=80",
+        "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80",
+        "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&q=80"
+      ]
+    },
+    {
+      "id": "gal-003",
+      "category": "movies",
+      "title": "Cinematic Moments",
+      "images": [
+        "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80",
+        "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=800&q=80",
+        "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&q=80",
+        "https://images.unsplash.com/photo-1542204165-65bf26472b9b?w=800&q=80"
+      ]
+    },
+    {
+      "id": "gal-004",
+      "category": "tv-shows",
+      "title": "TV Show Stills",
+      "images": [
+        "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=800&q=80",
+        "https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?w=800&q=80",
+        "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=800&q=80",
+        "https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?w=800&q=80"
+      ]
+    },
+    {
+      "id": "gal-005",
+      "category": "k-pop",
+      "title": "K-Pop Concert Highlights",
+      "images": [
+        "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80",
+        "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&q=80",
+        "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=800&q=80",
+        "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80"
+      ]
+    },
+    {
+      "id": "gal-006",
+      "category": "comics",
+      "title": "Comic Art Gallery",
+      "images": [
+        "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=800&q=80",
+        "https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=800&q=80",
+        "https://images.unsplash.com/photo-1588497859490-85d1c17db96d?w=800&q=80",
+        "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=800&q=80"
+      ]
+    },
+    {
+      "id": "gal-007",
+      "category": "manga",
+      "title": "Manga Illustration Showcase",
+      "images": [
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80",
+        "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800&q=80",
+        "https://images.unsplash.com/photo-1559454403-b8fb88521f11?w=800&q=80",
+        "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80"
+      ]
+    }
+  ]
+}

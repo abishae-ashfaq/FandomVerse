@@ -1,0 +1,459 @@
+{
+    "characters": [
+        {
+            "id": "char-001",
+            "name": "Naruto Uzumaki",
+            "series": "Naruto",
+            "category": "anime",
+            "traits": [
+                "Brave",
+                "Energetic",
+                "Determined"
+            ],
+            "biography": "A young ninja with a sealed nine-tailed fox spirit inside him, Naruto dreams of becoming Hokage and earning his village's respect.",
+            "image": "https://images5.alphacoders.com/413/thumb-1920-413842.jpg"
+        },
+        {
+            "id": "char-002",
+            "name": "Monkey D. Luffy",
+            "series": "One Piece",
+            "category": "anime",
+            "traits": [
+                "Free-spirited",
+                "Loyal",
+                "Fearless"
+            ],
+            "biography": "Captain of the Straw Hat Pirates, Luffy sails the Grand Line in search of the legendary One Piece treasure to become Pirate King.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAFCNPtqOcdPLPmI8gIIMDVWHh-QNjvyaPXRO7UjnoKg&s=10"
+        },
+        {
+            "id": "char-003",
+            "name": "Levi Ackerman",
+            "series": "Attack on Titan",
+            "category": "anime",
+            "traits": [
+                "Cold",
+                "Skilled",
+                "Strategic"
+            ],
+            "biography": "Humanity's strongest soldier, Levi leads the Survey Corps with unmatched combat skill and a hardened sense of duty.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQReqFcIaQnNZh7sBHf43jnzHGBYxXzIEUlDzG-RL2Q9w&s=10"
+        },
+        {
+            "id": "char-004",
+            "name": "Son Goku",
+            "series": "Dragon Ball",
+            "category": "anime",
+            "traits": [
+                "Pure-hearted",
+                "Powerful",
+                "Competitive"
+            ],
+            "biography": "A Saiyan raised on Earth, Goku constantly seeks stronger opponents and protects the universe from cosmic threats.",
+            "image": "https://4kwallpapers.com/images/walls/thumbs/20932.jpg"
+        },
+        {
+            "id": "char-005",
+            "name": "Sailor Moon",
+            "series": "Sailor Moon",
+            "category": "anime",
+            "traits": [
+                "Compassionate",
+                "Clumsy",
+                "Heroic"
+            ],
+            "biography": "Usagi Tsukino transforms into the guardian Sailor Moon to protect Earth from the Dark Kingdom alongside her fellow Sailor Scouts.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq6Qvp9i41RXEfypMgp-p_MnPS1Lf9vIQ8EIO9r7ZXyQ&s=10"
+        },
+        {
+            "id": "char-006",
+            "name": "Kratos",
+            "series": "God of War",
+            "category": "gaming",
+            "traits": [
+                "Fierce",
+                "Stoic",
+                "Protective"
+            ],
+            "biography": "The Ghost of Sparta, Kratos wields the Leviathan Axe and battles gods across Norse realms while raising his son Atreus.",
+            "image": "https://mmg.whatsapp.net/v/t62.7118-24/827900973_1306921094754246_8048356724977230025_n.enc?ccb=11-4&oh=01_Q5Aa5gHIcJ-PKS8XsFhVallBkEzeNxQNmvG3sVdV6sov5FJWNA&oe=6AE07695&_nc_sid=5e03e0"
+        },
+        {
+            "id": "char-007",
+            "name": "Master Chief",
+            "series": "Halo",
+            "category": "gaming",
+            "traits": [
+                "Disciplined",
+                "Silent",
+                "Deadly"
+            ],
+            "biography": "Spartan-117, humanity's greatest soldier, fights the Covenant and the Flood to protect Earth across the galaxy.",
+            "image": "https://mmg.whatsapp.net/v/t62.7118-24/825154149_1089430713880638_2524280741340821737_n.enc?ccb=11-4&oh=01_Q5Aa5gFj53kH4n4jTrusNhj7RGO4wK_z3n_kbSahB1v5wAXg8Q&oe=6AE096F6&_nc_sid=5e03e0"
+        },
+        {
+            "id": "char-008",
+            "name": "Geralt of Rivia",
+            "series": "The Witcher",
+            "category": "gaming",
+            "traits": [
+                "Cynical",
+                "Skilled",
+                "Honorable"
+            ],
+            "biography": "A mutated monster hunter for hire, Geralt navigates a morally grey world while searching for his destiny, Ciri.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEjwEDKMSEHxqhnBxbC40Mo4s9QJmXtUAM5dX7dbePow&s=10"
+        },
+        {
+            "id": "char-009",
+            "name": "Lara Croft",
+            "series": "Tomb Raider",
+            "category": "gaming",
+            "traits": [
+                "Adventurous",
+                "Clever",
+                "Resilient"
+            ],
+            "biography": "An archaeologist and adventurer, Lara Croft uncovers ancient mysteries while surviving deadly traps and enemies.",
+            "image": "https://mmg.whatsapp.net/v/t62.7118-24/822465533_1559894218766269_5636375892213131957_n.enc?ccb=11-4&oh=01_Q5Aa5gEou46N61msDsttQ-ntnQX1y1ZxW8kDLKBzH-FhGbWKAw&oe=6AE0725F&_nc_sid=5e03e0"
+        },
+        {
+            "id": "char-010",
+            "name": "Ellie Williams",
+            "series": "The Last of Us",
+            "category": "gaming",
+            "traits": [
+                "Brave",
+                "Haunted",
+                "Loyal"
+            ],
+            "biography": "A teenage survivor immune to the Cordyceps infection, Ellie journeys across a post-apocalyptic America with Joel.",
+            "image": "https://mmg.whatsapp.net/v/t62.7118-24/822284585_38673927625588300_7338408133700175887_n.enc?ccb=11-4&oh=01_Q5Aa5gEiaq1LqoMPdlADf5pLxgAYzNKuNBjno5_92TqjrNQiOg&oe=6AE09C0E&_nc_sid=5e03e0"
+        },
+        {
+            "id": "char-011",
+            "name": "Iron Man",
+            "series": "Marvel Cinematic Universe",
+            "category": "movies",
+            "traits": [
+                "Genius",
+                "Arrogant",
+                "Heroic"
+            ],
+            "biography": "Billionaire inventor Tony Stark dons powered armor to protect the world as Iron Man, founding the Avengers.",
+            "image": "https://www.xtrafondos.com/thumbs/webp/1_12644.webp"
+        },
+        {
+            "id": "char-012",
+            "name": "Wonder Woman",
+            "series": "DC Extended Universe",
+            "category": "movies",
+            "traits": [
+                "Compassionate",
+                "Fierce",
+                "Wise"
+            ],
+            "biography": "Diana of Themyscira, an Amazonian warrior princess, brings hope and justice to the world of men as Wonder Woman.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrN4xr5XzvsfKLNFwtNPwy3oSXSc16SORs0C5qpUDmwA&s=10"
+        },
+        {
+            "id": "char-013",
+            "name": "Batman",
+            "series": "The Dark Knight Trilogy",
+            "category": "movies",
+            "traits": [
+                "Brooding",
+                "Brilliant",
+                "Relentless"
+            ],
+            "biography": "Bruce Wayne, traumatized by his parents' murder, wages a one-man war on crime as the vigilante Batman.",
+            "image": "https://www.xtrafondos.com/thumbs/webp/1_7096.webp"
+        },
+        {
+            "id": "char-014",
+            "name": "Darth Vader",
+            "series": "Star Wars",
+            "category": "movies",
+            "traits": [
+                "Menacing",
+                "Tragic",
+                "Powerful"
+            ],
+            "biography": "Once the Jedi Anakin Skywalker, Darth Vader now serves the Emperor as the galaxy's most feared enforcer.",
+            "image": "https://www.xtrafondos.com/thumbs/webp/1_4936.webp"
+        },
+        {
+            "id": "char-015",
+            "name": "Neo",
+            "series": "The Matrix",
+            "category": "movies",
+            "traits": [
+                "Chosen",
+                "Conflicted",
+                "Awakened"
+            ],
+            "biography": "A hacker who discovers reality is a simulation, Neo becomes the prophesied savior of humanity.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4E4eeNSdrLd9VOZRn2avicR9KqLsBEQnZAEMl-VYU0A&s=10"
+        },
+        {
+            "id": "char-016",
+            "name": "Walter White",
+            "series": "Breaking Bad",
+            "category": "tv-shows",
+            "traits": [
+                "Brilliant",
+                "Ruthless",
+                "Prideful"
+            ],
+            "biography": "A chemistry teacher turned meth kingpin, Walter White descends into darkness after a terminal diagnosis.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxLvVLz_TfS159YKdA17ewoqWG2SOsLHBo-0kY7bFWK3idKS71SP_z2IJ&s=10"
+        },
+        {
+            "id": "char-017",
+            "name": "Eleven",
+            "series": "Stranger Things",
+            "category": "tv-shows",
+            "traits": [
+                "Powerful",
+                "Quiet",
+                "Loyal"
+            ],
+            "biography": "A psychokinetic girl with a mysterious past, Eleven protects Hawkins from the Upside Down.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1I2rD2PShNJ2J6y7M7t493JI1R1-rPHc3SHVr5LXt8w&s=10"
+        },
+        {
+            "id": "char-018",
+            "name": "Daenerys Targaryen",
+            "series": "Game of Thrones",
+            "category": "tv-shows",
+            "traits": [
+                "Ambitious",
+                "Fiery",
+                "Righteous"
+            ],
+            "biography": "Mother of Dragons and rightful heir to the Iron Throne, Daenerys fights to reclaim her family's legacy.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTckmX54VeMtsSrYGrleh4kFpSQmKSEfXPOmETlsx_1gQ&s=10"
+        },
+        {
+            "id": "char-019",
+            "name": "Sherlock Holmes",
+            "series": "Sherlock",
+            "category": "tv-shows",
+            "traits": [
+                "Genius",
+                "Eccentric",
+                "Observant"
+            ],
+            "biography": "The world's only consulting detective, Sherlock solves impossible crimes with razor-sharp deduction.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5lH8hm9BNh6JmBFIrzqDsKrFa9HBEDH0dLOAbifB8w&s=10"
+        },
+        {
+            "id": "char-020",
+            "name": "Michael Scott",
+            "series": "The Office",
+            "category": "tv-shows",
+            "traits": [
+                "Awkward",
+                "Well-meaning",
+                "Hilarious"
+            ],
+            "biography": "Regional manager of Dunder Mifflin, Michael Scott tries (and often fails) to be both boss and friend.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9u1P3TupAJNCocmTfAZ5sChtDsk12o8FraQcZ7IVFA&s=10"
+        },
+        {
+            "id": "char-021",
+            "name": "RM (BTS)",
+            "series": "BTS",
+            "category": "k-pop",
+            "traits": [
+                "Charismatic",
+                "Thoughtful",
+                "Artistic"
+            ],
+            "biography": "Leader of BTS, RM blends introspective lyricism with global pop stardom and advocacy.",
+            "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80"
+        },
+        {
+            "id": "char-022",
+            "name": "Lisa (BLACKPINK)",
+            "series": "BLACKPINK",
+            "category": "k-pop",
+            "traits": [
+                "Bold",
+                "Stylish",
+                "Powerful"
+            ],
+            "biography": "Main dancer and rapper of BLACKPINK, Lisa is one of K-Pop's most iconic performers.",
+            "image": "https://images.unsplash.com/photo-1526478806334-5fd488fcaabc?w=600&q=80"
+        },
+        {
+            "id": "char-023",
+            "name": "IU",
+            "series": "Solo Artist",
+            "category": "k-pop",
+            "traits": [
+                "Versatile",
+                "Soulful",
+                "Beloved"
+            ],
+            "biography": "Singer-songwriter and actress IU is one of Korea's most respected solo artists.",
+            "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=600&q=80"
+        },
+        {
+            "id": "char-024",
+            "name": "Baekhyun (EXO)",
+            "series": "EXO",
+            "category": "k-pop",
+            "traits": [
+                "Energetic",
+                "Polished",
+                "Iconic"
+            ],
+            "biography": "Main vocalist of EXO known for powerful live performances and award-winning solo work.",
+            "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80"
+        },
+        {
+            "id": "char-025",
+            "name": "Nayeon (TWICE)",
+            "series": "TWICE",
+            "category": "k-pop",
+            "traits": [
+                "Bright",
+                "Catchy",
+                "Cheerful"
+            ],
+            "biography": "One of TWICE's lead vocalists, Nayeon brings the group's signature bright energy.",
+            "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=600&q=80"
+        },
+        {
+            "id": "char-026",
+            "name": "Spider-Man",
+            "series": "Marvel Comics",
+            "category": "comics",
+            "traits": [
+                "Quippy",
+                "Responsible",
+                "Young"
+            ],
+            "biography": "Bitten by a radioactive spider, Peter Parker balances teenage life with great responsibility.",
+            "image": "https://images.unsplash.com/photo-1608889335941-32ac5f2041b9?w=600&q=80"
+        },
+        {
+            "id": "char-027",
+            "name": "Superman",
+            "series": "DC Comics",
+            "category": "comics",
+            "traits": [
+                "Noble",
+                "Powerful",
+                "Hopeful"
+            ],
+            "biography": "The last son of Krypton, Clark Kent protects Earth as the Man of Steel, symbol of hope.",
+            "image": "https://images.unsplash.com/photo-1531259683007-016a7b628fc3?w=600&q=80"
+        },
+        {
+            "id": "char-028",
+            "name": "The Joker",
+            "series": "DC Comics",
+            "category": "comics",
+            "traits": [
+                "Chaotic",
+                "Brilliant",
+                "Unpredictable"
+            ],
+            "biography": "Batman's archenemy, the Joker is an agent of chaos who finds comedy in destruction.",
+            "image": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?w=600&q=80"
+        },
+        {
+            "id": "char-029",
+            "name": "Deadpool",
+            "series": "Marvel Comics",
+            "category": "comics",
+            "traits": [
+                "Irreverent",
+                "Deadly",
+                "Meta"
+            ],
+            "biography": "The Merc with a Mouth, Deadpool breaks the fourth wall and takes down villains with style.",
+            "image": "https://images.unsplash.com/photo-1608889175140-6f64d1f0f24d?w=600&q=80"
+        },
+        {
+            "id": "char-030",
+            "name": "Black Panther",
+            "series": "Marvel Comics",
+            "category": "comics",
+            "traits": [
+                "Regal",
+                "Strategic",
+                "Noble"
+            ],
+            "biography": "King T'Challa of Wakanda, the Black Panther, protects his nation and the world with vibranium power.",
+            "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=600&q=80"
+        },
+        {
+            "id": "char-031",
+            "name": "Son Gohan",
+            "series": "Dragon Ball Z",
+            "category": "manga",
+            "traits": [
+                "Kind",
+                "Powerful",
+                "Humble"
+            ],
+            "biography": "Goku's eldest son, Gohan hides immense power behind a scholarly personality until the moment calls.",
+            "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80"
+        },
+        {
+            "id": "char-032",
+            "name": "Light Yagami",
+            "series": "Death Note",
+            "category": "manga",
+            "traits": [
+                "Brilliant",
+                "Cold",
+                "Ambitious"
+            ],
+            "biography": "A gifted student who finds a notebook that kills anyone whose name is written in it.",
+            "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=600&q=80"
+        },
+        {
+            "id": "char-033",
+            "name": "Edward Elric",
+            "series": "Fullmetal Alchemist",
+            "category": "manga",
+            "traits": [
+                "Determined",
+                "Principled",
+                "Genius"
+            ],
+            "biography": "The Fullmetal Alchemist, Edward searches for the Philosopher's Stone to restore his and his brother's bodies.",
+            "image": "https://images.unsplash.com/photo-1559454403-b8fb88521f11?w=600&q=80"
+        },
+        {
+            "id": "char-034",
+            "name": "Ichigo Kurosaki",
+            "series": "Bleach",
+            "category": "manga",
+            "traits": [
+                "Fierce",
+                "Protective",
+                "Hot-headed"
+            ],
+            "biography": "A teenager who gains Soul Reaper powers and fights Hollows to protect the living and the dead.",
+            "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&q=80"
+        },
+        {
+            "id": "char-035",
+            "name": "Satoru Gojo",
+            "series": "Jujutsu Kaisen",
+            "category": "manga",
+            "traits": [
+                "Charming",
+                "Overpowered",
+                "Confident"
+            ],
+            "biography": "The strongest jujutsu sorcerer, Gojo wields Limitless and the Six Eyes to protect his students.",
+            "image": "https://images.unsplash.com/photo-1614583225154-5fcdda07019e?w=600&q=80"
+        }
+    ]
+}

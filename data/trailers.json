@@ -1,0 +1,144 @@
+{
+  "trailers": [
+    {
+      "id": "trl-001",
+      "title": "Naruto Shippuden — Official Trailer",
+      "category": "anime",
+      "type": "Trailer",
+      "youtubeId": "13SfqrH9lDA",
+      "duration": "2:14",
+      "description": "The official trailer for Naruto Shippuden.",
+      "thumbnail": "https://4kwallpapers.com/images/walls/thumbs_3t/25564.jpg"
+    },
+    {
+      "id": "trl-002",
+      "title": "God of War Ragnarok — Reveal",
+      "category": "gaming",
+      "type": "Trailer",
+      "youtubeId": "EE-4GvjKcfs",
+      "duration": "1:48",
+      "description": "Kratos and Atreus must journey to each of the Nine Realms.",
+      "thumbnail": "https://4kwallpapers.com/images/walls/thumbs/13667.jpg"
+    },
+    {
+      "id": "trl-003",
+      "title": "The Batman — Main Trailer",
+      "category": "movies",
+      "type": "Trailer",
+      "youtubeId": "mqqft2x_Aa4",
+      "duration": "2:02",
+      "description": "Unmask the truth. Watch the main trailer for The Batman.",
+      "thumbnail": "https://4kwallpapers.com/images/walls/thumbs/7678.jpg"
+    },
+    {
+      "id": "trl-004",
+      "title": "Stranger Things 4 — Official Trailer",
+      "category": "tv-shows",
+      "type": "Trailer",
+      "youtubeId": "b9EkMc79ZSU",
+      "duration": "3:11",
+      "description": "The semi final season is coming. Watch the official trailer.",
+      "thumbnail": "https://4kwallpapers.com/images/walls/thumbs/25038.jpg"
+    },
+    {
+      "id": "trl-005",
+      "title": "BLACKPINK — 'Pink Venom' MV",
+      "category": "k-pop",
+      "type": "Performance",
+      "youtubeId": "gQ7D_hk2_Js",
+      "duration": "4:20",
+      "description": "The official music video for Pink Venom by BLACKPINK.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSmKfEWU5RG6QoI5yeMglLjsRQYeITuvmjzHAz7axNIll2Sqs&s"
+    },
+    {
+      "id": "trl-006",
+      "title": "Spider-Man: Across the Spider-Verse",
+      "category": "comics",
+      "type": "Trailer",
+      "youtubeId": "cqGjhVJWtEg",
+      "duration": "2:35",
+      "description": "Miles Morales returns for the next chapter of the Spider-Verse saga.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOjwJ-IVC8zQ1WGoi9xE7uwAKP5zU-curKL7umj3YR_V52CuY&s"
+    },
+    {
+      "id": "trl-007",
+      "title": "Jujutsu Kaisen Season 2 — Trailer",
+      "category": "manga",
+      "type": "Documentary",
+      "youtubeId": "7n0B1k5jQ7E",
+      "duration": "12:45",
+      "description": "The Shibuya Incident arc begins.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDIkP1RnLyBoNZw9_2sXI3xM7qiple5dtPUFB-ZrvAtusFYE&s"
+    },
+    {
+      "id": "trl-008",
+      "title": "Demon Slayer — Swordsmith Village Arc",
+      "category": "anime",
+      "type": "Event",
+      "youtubeId": "5J8m9X7kQ9E",
+      "duration": "5:20",
+      "description": "Tanjiro journeys to the Swordsmith Village.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFVtsmyTl2o5Wq6QCyVv7tPahsWRHRzvRCXuFYNVGTiswX3Q&s"
+    },
+    {
+      "id": "trl-009",
+      "title": "Valorant — Champions 2023 Cinematic",
+      "category": "gaming",
+      "type": "Gameplay",
+      "youtubeId": "9n8X7m5kQ2E",
+      "duration": "8:15",
+      "description": "The cinematic for the biggest Valorant tournament.",
+      "thumbnail": "https://4kwallpapers.com/images/walls/thumbs/19112.png"
+    },
+    {
+      "id": "trl-010",
+      "title": "Avengers: Endgame — Official Trailer",
+      "category": "movies",
+      "type": "Teaser",
+      "youtubeId": "TcMBFSGVi1c",
+      "duration": "1:30",
+      "description": "Whatever it takes. Watch the official trailer for Avengers: Endgame.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP6dPYQ63eoG-X-VC-pgebwYa70Gea1voZagAtroJEmMdiLwy5&s"
+    },
+    {
+      "id": "trl-011",
+      "title": "BTS — 'Dynamite' Official MV",
+      "category": "k-pop",
+      "type": "Performance",
+      "youtubeId": "gdZLi9oWNZg",
+      "duration": "6:50",
+      "description": "The official music video for Dynamite by BTS.",
+      "thumbnail": "https://4kwallpapers.com/images/walls/thumbs/26076.jpg"
+    },
+    {
+      "id": "trl-012",
+      "title": "The Witcher Season 3 — Trailer",
+      "category": "tv-shows",
+      "type": "Trailer",
+      "youtubeId": "vH7Yt4eQ7E8",
+      "duration": "2:48",
+      "description": "Geralt returns for a new season of monster hunting.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdAysciq0kiiloDeTIbhgtkWHnHbUsPxzOIKwjGtAfg0_6d0&s"
+    },
+    {
+      "id": "trl-013",
+      "title": "The Boys Season 4 — Official Trailer",
+      "category": "comics",
+      "type": "Event",
+      "youtubeId": "7E4X8m9Q2E1",
+      "duration": "15:00",
+      "description": "The Boys are back and they're going to war.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhF4fPkB17lyxPhU95x4PETcfsoc2jK8ZvWGo8VlwdWueHDHFv&s"
+    },
+    {
+      "id": "trl-014",
+      "title": "One Piece — Official Trailer",
+      "category": "manga",
+      "type": "Teaser",
+      "youtubeId": "Ades3pQbeh8",
+      "duration": "1:45",
+      "description": "The epic live-action adaptation of the legendary manga.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-iIKRkuC-RlgscQAJcmDdTHoeqLMccQbBAQcTGmR5VMjSAKq&s"
+    }
+  ]
+}

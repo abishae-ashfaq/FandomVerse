@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "key": "anime",
+      "name": "Anime",
+      "icon": "fa-tv",
+      "tagline": "Epic sagas, iconic battles & characters you'll never forget.",
+      "description": "From 500-episode shonen sagas like Naruto: Shippuuden to modern masterpieces, anime tells stories no other medium can. Ninja, titans, heroes — every world is deeper than the last.",
+      "image": "./images/animes-bg.jpg"
+      
+    },
+    {
+      "key": "gaming",
+      "name": "Gaming",
+      "icon": "fa-gamepad",
+      "tagline": "Releases, reviews & esports.",
+      "description": "From AAA blockbusters to indie darlings, and the communities around them.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80"
+    },
+    {
+      "key": "movies",
+      "name": "Movies",
+      "icon": "fa-film",
+      "tagline": "Blockbusters, indies & classics.",
+      "description": "Cinema in all its forms — superhero, sci-fi, drama, and everything between.",
+      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=800&q=80"
+    },
+    {
+      "key": "tv-shows",
+      "name": "TV Shows",
+      "icon": "fa-tv",
+      "tagline": "Binge-worthy series & episodes.",
+      "description": "Streaming seasons, legacy classics, and everything worth bingeing.",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=800&q=80"
+    },
+    {
+      "key": "k-pop",
+      "name": "K-Pop",
+      "icon": "fa-music",
+      "tagline": "Comebacks, albums & idols.",
+      "description": "Korean pop music, groups, soloists, and the fan culture around them.",
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&q=80"
+    },
+    {
+      "key": "comics",
+      "name": "Comics",
+      "icon": "fa-book-open",
+      "tagline": "Heroes, villains & story arcs.",
+      "description": "Western comic books — Marvel, DC, Image, indie publishers, and more.",
+      "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=800&q=80"
+    },
+    {
+      "key": "manga",
+      "name": "Manga",
+      "icon": "fa-book",
+      "tagline": "Volumes, chapters & authors.",
+      "description": "Japanese comics — from Weekly Shonen Jump hits to seinen masterworks.",
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "events": [
+    {
+      "id": "evt-001",
+      "name": "Anime Expo Karachi",
+      "category": "anime",
+      "date": "2026-10-15",
+      "location": "Karachi, Pakistan",
+      "description": "The largest anime community gathering in Pakistan with cosplay, panels, and merch.",
+      "image": "https://images.unsplash.com/photo-1765633358993-c8a68fd47d6f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+    },
+    {
+      "id": "evt-002",
+      "name": "Tokyo Anime Fair",
+      "category": "anime",
+      "date": "2026-11-02",
+      "location": "Tokyo, Japan",
+      "description": "Industry event showcasing new anime seasons and studio announcements.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfmCgd8QQh88D1TaNi158Gl-MENnOxQnPQAtpgOrwD-A&s=10"
+    },
+    {
+      "id": "evt-003",
+      "name": "Anime Weekend Atlanta",
+      "category": "anime",
+      "date": "2026-12-05",
+      "location": "Atlanta, USA",
+      "description": "One of North America's premier anime conventions with guests from Japan.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BPBAw0L6U_m2ykv1LyXqO8y0YSS8Q3PPpcK6iWDAzg&s=10"
+    },
+    {
+      "id": "evt-004",
+      "name": "Global Esports Finals",
+      "category": "gaming",
+      "date": "2026-11-02",
+      "location": "Seoul, South Korea",
+      "description": "The world's biggest esports tournament featuring League, Valorant, and CS2.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80"
+    },
+    {
+      "id": "evt-005",
+      "name": "Gamescom",
+      "category": "gaming",
+      "date": "2026-08-22",
+      "location": "Cologne, Germany",
+      "description": "Europe's biggest gaming expo with playable demos and developer panels.",
+      "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80"
+    },
+    {
+      "id": "evt-006",
+      "name": "The Game Awards",
+      "category": "gaming",
+      "date": "2026-12-12",
+      "location": "Los Angeles, USA",
+      "description": "Annual awards ceremony honoring the best games of the year.",
+      "image": "data:image/jpeg;base64,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"
+    },
+    {
+      "id": "evt-007",
+      "name": "Marvel Phase 5 Premiere",
+      "category": "movies",
+      "date": "2026-10-25",
+      "location": "Hollywood, USA",
+      "description": "Red carpet premiere of the next Marvel Cinematic Universe saga kickoff.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6L2VaaEk9JxHiqI44lKoS6gVDd0FlMpHWw_wAGFtbHA&s=10"
+    },
+    {
+      "id": "evt-008",
+      "name": "Cannes Film Festival",
+      "category": "movies",
+      "date": "2026-05-14",
+      "location": "Cannes, France",
+      "description": "Prestigious international film festival showcasing world cinema.",
+      "image": "https://images.unsplash.com/photo-1527979809431-ea3d5c0c01c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+    },
+    {
+      "id": "evt-009",
+      "name": "DC FanDome Live",
+      "category": "movies",
+      "date": "2026-09-18",
+      "location": "Virtual",
+      "description": "DC's global fan event with exclusive trailers and cast panels.",
+      "image": "https://images.unsplash.com/photo-1574715988905-61fbac7e0302?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+    },
+    {
+      "id": "evt-010",
+      "name": "Stranger Things S5 Premiere",
+      "category": "tv-shows",
+      "date": "2026-11-15",
+      "location": "Los Angeles, USA",
+      "description": "Red carpet premiere of the final season of Stranger Things.",
+      "image": "./images/th.png"
+    },
+    {
+      "id": "evt-011",
+      "name": "Emmy Awards",
+      "category": "tv-shows",
+      "date": "2026-09-20",
+      "location": "Los Angeles, USA",
+      "description": "The biggest night in television celebrating the year's best shows.",
+      "image": "./images/emmy awards.jpg"
+    },
+    {
+      "id": "evt-012",
+      "name": "Comic-Con TV Showcase",
+      "category": "tv-shows",
+      "date": "2026-07-24",
+      "location": "San Diego, USA",
+      "description": "Comic-Con's dedicated TV track featuring panels from major networks.",
+      "image": "./images/conn.jpg"
+    },
+    {
+      "id": "evt-013",
+      "name": "K-Pop World Tour Act I",
+      "category": "k-pop",
+      "date": "2026-12-20",
+      "location": "Seoul, South Korea",
+      "description": "Multi-group world tour featuring K-Pop's biggest acts.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3cbcQ6oIQyYmmoLKwWY1Obz2eBDwq_ebz_yM05z_Prg&s=10"
+    },
+    {
+      "id": "evt-014",
+      "name": "MAMA Awards",
+      "category": "k-pop",
+      "date": "2026-11-28",
+      "location": "Tokyo, Japan",
+      "description": "Mnet Asian Music Awards honoring the best in K-Pop.",
+      "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800&q=80"
+    },
+    {
+      "id": "evt-015",
+      "name": "KCON",
+      "category": "k-pop",
+      "date": "2026-08-15",
+      "location": "Los Angeles, USA",
+      "description": "The world's largest Korean culture convention featuring K-Pop concerts.",
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=800&q=80"
+    },
+    {
+      "id": "evt-016",
+      "name": "Comic-Con International",
+      "category": "comics",
+      "date": "2026-07-23",
+      "location": "San Diego, USA",
+      "description": "The biggest comic book and pop culture event in the world.",
+      "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=800&q=80"
+    },
+    {
+      "id": "evt-017",
+      "name": "New York Comic Con",
+      "category": "comics",
+      "date": "2026-10-08",
+      "location": "New York, USA",
+      "description": "East Coast's premier comic convention with major publisher reveals.",
+      "image": "https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=800&q=80"
+    },
+    {
+      "id": "evt-018",
+      "name": "Marvel Comics Fan Meetup",
+      "category": "comics",
+      "date": "2026-11-22",
+      "location": "Chicago, USA",
+      "description": "Intimate gathering of Marvel's biggest fans with writers and artists.",
+      "image": "https://images.unsplash.com/photo-1588497859490-85d1c17db96d?w=800&q=80"
+    },
+    {
+      "id": "evt-019",
+      "name": "Manga Barcelona",
+      "category": "manga",
+      "date": "2026-12-08",
+      "location": "Barcelona, Spain",
+      "description": "Europe's biggest manga festival with publishers and cosplay.",
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80"
+    },
+    {
+      "id": "evt-020",
+      "name": "Jump Festa",
+      "category": "manga",
+      "date": "2026-12-19",
+      "location": "Tokyo, Japan",
+      "description": "Shueisha's annual event showcasing Weekly Shonen Jump titles.",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=800&q=80"
+    },
+    {
+      "id": "evt-021",
+      "name": "Manga Expo Paris",
+      "category": "manga",
+      "date": "2026-07-04",
+      "location": "Paris, France",
+      "description": "French manga convention featuring global publishers and artists.",
+      "image": "https://images.unsplash.com/photo-1765633358993-c8a68fd47d6f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+    }
+  ]
+}

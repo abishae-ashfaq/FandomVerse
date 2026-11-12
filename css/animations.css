@@ -1,0 +1,197 @@
+/* ============================================================
+   FANDOMVERSE — animations.css
+   Step 4: Motion graphics primitives
+   ============================================================ */
+
+
+/* ---------- 1. SCROLL PROGRESS BAR ---------- */
+.fv-scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0%;
+  background: var(--grad-cta);
+  z-index: 10000;
+  box-shadow: 0 0 12px rgba(255, 59, 92, 0.8);
+  transition: width 80ms linear;
+  pointer-events: none;
+}
+
+
+/* ---------- 2. CURSOR GLOW (desktop only) ---------- */
+.fv-cursor-glow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 320px;
+  height: 320px;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 1;
+  background: radial-gradient(
+    circle,
+    rgba(255, 59, 92, 0.14) 0%,
+    rgba(255, 59, 92, 0.06) 35%,
+    transparent 70%
+  );
+  transform: translate(-50%, -50%);
+  transition: opacity 300ms ease-out;
+  opacity: 0;
+  mix-blend-mode: screen;
+}
+
+.fv-cursor-glow.active {
+  opacity: 1;
+}
+
+@media (hover: none) {
+  .fv-cursor-glow { display: none; }
+}
+
+
+/* ---------- 3. PARTICLE CANVAS (behind hero) ---------- */
+.fv-particles {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  opacity: 0.55;
+}
+
+
+/* ---------- 4. REVEAL ON SCROLL ---------- */
+.reveal {
+  opacity: 0;
+  transform: translateY(40px);
+  transition:
+    opacity 800ms cubic-bezier(0.22, 1, 0.36, 1),
+    transform 800ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: opacity, transform;
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Stagger variants */
+.reveal-delay-1 { transition-delay: 80ms;  }
+.reveal-delay-2 { transition-delay: 160ms; }
+.reveal-delay-3 { transition-delay: 240ms; }
+.reveal-delay-4 { transition-delay: 320ms; }
+.reveal-delay-5 { transition-delay: 400ms; }
+.reveal-delay-6 { transition-delay: 480ms; }
+
+/* Reveal from left/right */
+.reveal-left {
+  opacity: 0;
+  transform: translateX(-40px);
+  transition: opacity 800ms var(--ease-out), transform 800ms var(--ease-out);
+}
+.reveal-left.is-visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.reveal-right {
+  opacity: 0;
+  transform: translateX(40px);
+  transition: opacity 800ms var(--ease-out), transform 800ms var(--ease-out);
+}
+.reveal-right.is-visible {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* Respect reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  .reveal,
+  .reveal-left,
+  .reveal-right {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+
+/* ---------- 5. HERO PARALLAX ---------- */
+.fv-hero-bg {
+  will-change: transform;
+}
+
+.fv-hero-content {
+  will-change: transform, opacity;
+}
+
+
+/* ---------- 6. COUNTER (stats numbers) ---------- */
+.fv-stat strong {
+  display: inline-block;
+  font-variant-numeric: tabular-nums;
+  min-width: 1.2em;
+}
+
+
+/* ---------- 7. ROUTE TRANSITION ENHANCEMENT ---------- */
+.fv-view {
+  will-change: opacity, transform;
+}
+
+.fv-view.fv-leaving {
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 220ms var(--ease-out), transform 220ms var(--ease-out);
+}
+
+
+/* ---------- 8. FEATURED PANEL TABS — animated underline ---------- */
+.fv-tab {
+  position: relative;
+  overflow: hidden;
+}
+
+.fv-tab::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: var(--grad-cta);
+  opacity: 0;
+  transition: opacity 220ms var(--ease-out);
+  z-index: -1;
+}
+
+.fv-tab.active::before {
+  opacity: 1;
+}
+
+
+/* ---------- 9. GLOW PULSE FOR KEY ELEMENTS ---------- */
+@keyframes fvGlowPulse {
+  0%, 100% { box-shadow: 0 8px 24px rgba(255, 59, 92, 0.5); }
+  50%      { box-shadow: 0 8px 32px rgba(255, 59, 92, 0.85); }
+}
+
+.fv-chatbot-fab {
+  animation: fvGlowPulse 3s ease-in-out infinite;
+}
+
+
+/* ---------- 10. SHIMMER LOADER (for future JSON loads) ---------- */
+@keyframes fvShimmer {
+  0%   { background-position: -400px 0; }
+  100% { background-position: 400px 0;  }
+}
+
+.fv-skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--bg-surface) 0%,
+    var(--bg-elevated) 40%,
+    var(--bg-surface) 80%
+  );
+  background-size: 400px 100%;
+  animation: fvShimmer 1.4s linear infinite;
+  border-radius: var(--radius-sm);
+}

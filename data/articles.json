@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": "art-001",
+      "title": "Why Anime Is Peaking in 2026",
+      "category": "anime",
+      "type": "articles",
+      "excerpt": "Streaming, simulcasts, and global fandoms have pushed anime into its biggest era yet.",
+      "content": "Anime has never been more globally accessible. With simulcast releases, streaming giants investing in original productions, and fandoms spanning every continent, 2026 marks a turning point. Studios are producing at record pace while creators like MAPPA and Ufotable redefine what's possible on television budgets.",
+      "image": "https://images.unsplash.com/photo-1541562232579-512a21360020?w=800&q=80",
+      "readTime": "6 min read",
+      "date": "2026-09-12",
+      "author": "FandomVerse Editorial"
+    },
+    {
+      "id": "art-002",
+      "title": "The Rise of Cinematic Games",
+      "category": "gaming",
+      "type": "articles",
+      "excerpt": "Story-driven titles are blurring the line between game and film.",
+      "content": "Games like The Last of Us, God of War, and Red Dead Redemption 2 have elevated interactive storytelling to cinematic heights. With performance capture, orchestral scores, and dozens of hours of narrative, today's blockbuster games rival prestige television in cultural impact.",
+      "image": "https://images.unsplash.com/photo-1665592512676-840f7b669aeb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "readTime": "8 min read",
+      "date": "2026-09-10",
+      "author": "FandomVerse Editorial"
+    },
+    {
+      "id": "art-003",
+      "title": "K-Pop Concerts Go Global",
+      "category": "k-pop",
+      "type": "articles",
+      "excerpt": "From Seoul to São Paulo, K-Pop stadium tours are selling out in minutes.",
+      "content": "BTS, BLACKPINK, and Stray Kids have turned K-Pop into a truly global phenomenon. World tours now span dozens of countries, with production values rivaling Western pop's biggest acts. Fandom culture — lightsticks, fan chants, streaming parties — travels with them.",
+      "image": "https://images.unsplash.com/photo-1701506518619-7930f5785e82?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+      "readTime": "5 min read",
+      "date": "2026-09-08",
+      "author": "FandomVerse Editorial"
+    }
+  ]
+}

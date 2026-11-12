@@ -1,0 +1,94 @@
+{
+  "chatbot": {
+    "greeting": "Hi! I'm the FandomVerse assistant. Ask me about anime, gaming, movies, or anything fandom!",
+    "quickReplies": ["Anime", "Gaming", "Movies", "Characters", "Events", "Merchandise"],
+    "rules": [
+      {
+        "keywords": ["anime"],
+        "answer": "We have anime articles, characters, galleries, trailers, events and merchandise. Head to the Anime hub to explore!",
+        "link": "#/anime"
+      },
+      {
+        "keywords": ["gaming", "game", "games"],
+        "answer": "Check out our Gaming hub — releases, reviews, esports tournaments and merch!",
+        "link": "#/gaming"
+      },
+      {
+        "keywords": ["movie", "movies", "film", "films"],
+        "answer": "Our Movies hub has trailers, reviews, events and collectibles. Check it out!",
+        "link": "#/movies"
+      },
+      {
+        "keywords": ["tv", "show", "shows", "series"],
+        "answer": "The TV Shows hub covers binge-worthy series, premieres and episode guides.",
+        "link": "#/tv-shows"
+      },
+      {
+        "keywords": ["kpop", "k-pop", "k pop", "idol"],
+        "answer": "The K-Pop hub features comebacks, world tours, albums and idol spotlights!",
+        "link": "#/k-pop"
+      },
+      {
+        "keywords": ["comic", "comics"],
+        "answer": "Comics hub has heroes, villains, story arcs and collectible merch.",
+        "link": "#/comics"
+      },
+      {
+        "keywords": ["manga"],
+        "answer": "Manga hub — volumes, chapters, authors and gallery art. Dive in!",
+        "link": "#/manga"
+      },
+      {
+        "keywords": ["character", "characters"],
+        "answer": "We have 35+ character profiles across all 7 categories. Browse Characters from any hub!",
+        "link": "#/"
+      },
+      {
+        "keywords": ["event", "events", "convention"],
+        "answer": "We have 21+ events — conventions, tournaments, premieres. Check the Events section!",
+        "link": "#/"
+      },
+      {
+        "keywords": ["merch", "merchandise", "shop", "buy", "product"],
+        "answer": "Browse Merchandise for t-shirts, hoodies, figures, plushies and more — with cart support!",
+        "link": "#/merchandise"
+      },
+      {
+        "keywords": ["trailer", "trailers", "video"],
+        "answer": "Our Trailers hub has YouTube embeds for anime, games, movies and more.",
+        "link": "#/trailers"
+      },
+      {
+        "keywords": ["bookmark", "bookmarks", "save"],
+        "answer": "Bookmark any content card! Access your saved items from the Bookmarks page.",
+        "link": "#/bookmarks"
+      },
+      {
+        "keywords": ["search", "find"],
+        "answer": "Use the search bar at the top — try searching for 'Batman' or 'Naruto'.",
+        "link": "#/"
+      },
+      {
+        "keywords": ["contact", "email", "phone"],
+        "answer": "Head to Contact Us for our team info, email, phone, and location map.",
+        "link": "#/contact"
+      },
+      {
+        "keywords": ["about", "team", "who"],
+        "answer": "FandomVerse is built by fans, for fans. Visit About Us to learn more!",
+        "link": "#/about"
+      },
+      {
+        "keywords": ["hi", "hello", "hey"],
+        "answer": "Hello! Ask me about any category — anime, gaming, movies, K-Pop, comics, manga or TV shows.",
+        "link": "#/"
+      },
+      {
+        "keywords": ["thanks", "thank you", "ty"],
+        "answer": "You're welcome! Enjoy exploring FandomVerse!",
+        "link": "#/"
+      }
+    ],
+    "fallback": "I'm not sure about that yet. Try asking about anime, gaming, movies, characters, events or merchandise!"
+  }
+}

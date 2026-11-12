@@ -1,0 +1,31 @@
+{
+  "merchandise": [
+    { "id": "mer-001", "name": "Anime Graphic T-Shirt",     "category": "anime",    "price": 24.99, "priceRange": "$20 - $30",  "description": "Premium cotton tee with screen-printed anime artwork.",   "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&q=80" },
+    { "id": "mer-002", "name": "Anime Character Figure",    "category": "anime",    "price": 49.99, "priceRange": "$40 - $60",  "description": "Detailed PVC figure of a fan-favorite anime character.",  "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&q=80" },
+    { "id": "mer-003", "name": "Anime Poster Set (3-Pack)", "category": "anime",    "price": 18.99, "priceRange": "$15 - $25",  "description": "Set of three high-quality printed anime posters.",        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80" },
+
+    { "id": "mer-004", "name": "Gaming Hoodie",             "category": "gaming",   "price": 54.99, "priceRange": "$50 - $65",  "description": "Comfortable fleece hoodie with gamer-inspired design.",   "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=600&q=80" },
+    { "id": "mer-005", "name": "Pro Gaming Mouse Pad",      "category": "gaming",   "price": 29.99, "priceRange": "$25 - $35",  "description": "Extended cloth mouse pad with non-slip rubber base.",     "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=600&q=80" },
+    { "id": "mer-006", "name": "Retro Controller Keychain", "category": "gaming",   "price": 12.99, "priceRange": "$10 - $15",  "description": "Metal keychain shaped like a classic game controller.",   "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=600&q=80" },
+
+    { "id": "mer-007", "name": "Movie Poster — Classic",    "category": "movies",   "price": 22.99, "priceRange": "$18 - $28",  "description": "Vintage-style movie poster printed on matte paper.",      "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&q=80" },
+    { "id": "mer-008", "name": "Cinema Enamel Pin",         "category": "movies",   "price": 9.99,  "priceRange": "$8 - $12",   "description": "Hard enamel pin featuring a classic movie reel icon.",    "image": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?w=600&q=80" },
+    { "id": "mer-009", "name": "Director's Clapboard",      "category": "movies",   "price": 34.99, "priceRange": "$30 - $40",  "description": "Realistic clapboard for movie fans and video creators.",  "image": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=600&q=80" },
+
+    { "id": "mer-010", "name": "TV Show Coffee Mug",        "category": "tv-shows", "price": 16.99, "priceRange": "$14 - $20",  "description": "Ceramic mug with iconic TV series logo.",                 "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=600&q=80" },
+    { "id": "mer-011", "name": "Binge-Watch Blanket",       "category": "tv-shows", "price": 39.99, "priceRange": "$35 - $45",  "description": "Ultra-soft fleece blanket for marathon viewing sessions.", "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&q=80" },
+    { "id": "mer-012", "name": "TV Series Sticker Pack",    "category": "tv-shows", "price": 11.99, "priceRange": "$10 - $15",  "description": "Set of 12 waterproof vinyl stickers from popular shows.", "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&q=80" },
+
+    { "id": "mer-013", "name": "K-Pop Lightstick",          "category": "k-pop",    "price": 44.99, "priceRange": "$40 - $55",  "description": "Official-style lightstick for concert cheering.",         "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80" },
+    { "id": "mer-014", "name": "K-Pop Album Photobook",     "category": "k-pop",    "price": 34.99, "priceRange": "$30 - $40",  "description": "Collector's photobook with exclusive photos and lyrics.", "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=600&q=80" },
+    { "id": "mer-015", "name": "Idol Trading Card Set",     "category": "k-pop",    "price": 19.99, "priceRange": "$15 - $25",  "description": "Set of 10 holographic trading cards featuring K-Pop idols.","image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=600&q=80" },
+
+    { "id": "mer-016", "name": "Comic Book Collectible",    "category": "comics",   "price": 27.99, "priceRange": "$25 - $35",  "description": "Limited-edition comic book reprint with variant cover.",  "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=600&q=80" },
+    { "id": "mer-017", "name": "Superhero Action Figure",   "category": "comics",   "price": 32.99, "priceRange": "$28 - $40",  "description": "Articulated superhero action figure with accessories.",   "image": "https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=600&q=80" },
+    { "id": "mer-018", "name": "Comic Art Print",           "category": "comics",   "price": 21.99, "priceRange": "$18 - $28",  "description": "Framed comic book art print on premium cardstock.",       "image": "https://images.unsplash.com/photo-1588497859490-85d1c17db96d?w=600&q=80" },
+
+    { "id": "mer-019", "name": "Manga Volume Box Set",      "category": "manga",    "price": 89.99, "priceRange": "$80 - $100", "description": "Complete box set of a best-selling manga series.",        "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=600&q=80" },
+    { "id": "mer-020", "name": "Manga Bookmark Set",        "category": "manga",    "price": 8.99,  "priceRange": "$6 - $12",   "description": "Set of 6 laminated bookmarks featuring manga art.",       "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=600&q=80" },
+    { "id": "mer-021", "name": "Anime Plushie",             "category": "manga",    "price": 26.99, "priceRange": "$22 - $32",  "description": "Soft plushie of a popular manga character.",              "image": "https://images.unsplash.com/photo-1559454403-b8fb88521f11?w=600&q=80" }
+  ]
+}
